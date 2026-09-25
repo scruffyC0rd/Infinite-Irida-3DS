@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				16,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				14,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "dwn"
+		},
+		{
+			"offsets": [
+				18,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "lft"
+		},
+		{
+			"offsets": [
+				-1,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "rgt"
+		},
+		{
+			"offsets": [
+				3,
+				49
+			],
+			"indices": [],
+			"fps": 21,
+			"anim": "scream",
+			"loop": false,
+			"name": "scream"
+		},
+		{
+			"offsets": [
+				12,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ew",
+			"loop": false,
+			"name": "ew"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/execretion/roseW",
+	"position": [
+		110,
+		280
+	],
+	"healthicon": "rose",
+	"flip_x": true,
+	"healthbar_colors": [
+		133,
+		227,
+		243
+	],
+	"camera_position": [
+		60,
+		-40
+	],
+	"sing_duration": 6,
+	"scale": 4,
+	"_editor_isPlayer": true
+}

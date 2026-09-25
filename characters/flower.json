@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "flowerman idle"
+		},
+		{
+			"offsets": [
+				33,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "flowerman lft"
+		},
+		{
+			"offsets": [
+				-8,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "flowerman rgt"
+		},
+		{
+			"offsets": [
+				16,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "flowerman up"
+		},
+		{
+			"offsets": [
+				3,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "flowerman dwn"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/cordyceps/flowerman",
+	"position": [
+		10,
+		120
+	],
+	"healthicon": "flowerboy",
+	"flip_x": false,
+	"healthbar_colors": [
+		104,
+		30,
+		63
+	],
+	"camera_position": [
+		30,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 6,
+	"_editor_isPlayer": false
+}

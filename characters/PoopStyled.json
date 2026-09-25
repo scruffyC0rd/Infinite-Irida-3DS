@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				120,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "warriorS idle"
+		},
+		{
+			"offsets": [
+				61,
+				51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "warriorS up"
+		},
+		{
+			"offsets": [
+				62,
+				-65
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "warriorS dwn"
+		},
+		{
+			"offsets": [
+				93,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "warriorS lft"
+		},
+		{
+			"offsets": [
+				60,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "warriorS rgt"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/execretion/warriorS",
+	"position": [
+		1300,
+		120
+	],
+	"healthicon": "mom",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		-450,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 2.1,
+	"_editor_isPlayer": false
+}

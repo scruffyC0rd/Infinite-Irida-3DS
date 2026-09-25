@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				102,
+				22
+			],
+			"indices": [],
+			"fps": 5,
+			"anim": "idle",
+			"loop": true,
+			"name": "poopov idle"
+		},
+		{
+			"offsets": [
+				105,
+				95
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "singUP",
+			"loop": false,
+			"name": "poopov up"
+		},
+		{
+			"offsets": [
+				140,
+				-10
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "poopov dwn"
+		},
+		{
+			"offsets": [
+				220,
+				77
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "poopov lft"
+		},
+		{
+			"offsets": [
+				87,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "poopov rgt"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/execretion/poopov",
+	"position": [
+		990,
+		390
+	],
+	"healthicon": "mom",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		-320,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 3,
+	"_editor_isPlayer": false
+}

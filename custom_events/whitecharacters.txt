@@ -1,0 +1,2 @@
+Value 1: 1 Turn everyone white, 0 Restore their original colors
+

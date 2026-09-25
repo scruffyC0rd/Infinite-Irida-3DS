@@ -1,0 +1,88 @@
+{
+	"storyName": "SML Movie: Jeffys infinite irida",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			
+			"irida",
+			"jplush",
+			
+			[
+				255,
+				0,
+				80
+			]
+		],
+		[
+			"shucks",
+			"dbtg",
+			[
+				178,
+				95,
+				53
+			]
+		],
+		[
+			"excretion",
+			"poop",
+			[
+				100,
+				60,
+				0
+			]
+		],
+		[
+			"revenant",
+			"pp",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"cordyceps",
+			"mflower",
+			[
+				104,
+				30,
+				63
+			]
+		],
+		[
+			"tcimm",
+			"john",
+			[
+				68,
+				71,
+				94
+			]
+		],
+		[
+			"Melting",
+			"melting",
+			[
+				6,
+				0,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "irida"
+}

@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "marvincordy idle"
+		},
+		{
+			"offsets": [
+				3,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "marvincordy up"
+		},
+		{
+			"offsets": [
+				12,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "marvincordy lft"
+		},
+		{
+			"offsets": [
+				-22,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "marvincordy rgt"
+		},
+		{
+			"offsets": [
+				-3,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "marvincordy dwn"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/cordyceps/marvincordy",
+	"position": [
+		160,
+		460
+	],
+	"healthicon": "mflower",
+	"flip_x": true,
+	"healthbar_colors": [
+		152,
+		17,
+		55
+	],
+	"camera_position": [
+		70,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 4.2,
+	"_editor_isPlayer": true
+}

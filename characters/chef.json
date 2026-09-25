@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "chefNEW idle"
+		},
+		{
+			"offsets": [
+				-6,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "chefNEW up"
+		},
+		{
+			"offsets": [
+				46,
+				-29
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "chefNEW lft"
+		},
+		{
+			"offsets": [
+				1,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "chefNEW dwn"
+		},
+		{
+			"offsets": [
+				-21,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "chefNEW rgt"
+		},
+		{
+			"offsets": [
+				-17,
+				9
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "fnb",
+			"loop": false,
+			"name": "chefNEW fnb"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/revenant/chefNEW",
+	"position": [
+		790,
+		160
+	],
+	"healthicon": "pp",
+	"flip_x": false,
+	"healthbar_colors": [
+		139,
+		105,
+		100
+	],
+	"camera_position": [
+		30,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 3.5,
+	"_editor_isPlayer": false
+}

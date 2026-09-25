@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "boingerNEW idle"
+		},
+		{
+			"offsets": [
+				101,
+				179
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "boingerNEW up"
+		},
+		{
+			"offsets": [
+				90,
+				190
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "boingerNEW dwn"
+		},
+		{
+			"offsets": [
+				66,
+				188
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "boingerNEW lft"
+		},
+		{
+			"offsets": [
+				104,
+				197
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "boingerNEW rgt"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/tcimm/boingerNEW",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "boing",
+	"flip_x": true,
+	"healthbar_colors": [
+		193,
+		193,
+		193
+	],
+	"camera_position": [
+		-90,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 3,
+	"_editor_isPlayer": true
+}

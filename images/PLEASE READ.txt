@@ -1,0 +1,1 @@
+your images/Sprites must be resized to be lower than 1024x1024

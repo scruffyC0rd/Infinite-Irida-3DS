@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><TextureAtlas imagePath="daddykinky.png">
+<SubTexture name="daddykinky dwn0000" x="325" y="558" width="139" height="113" frameX="-129" frameY="-89" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky dwn0001" x="693" y="428" width="136" height="117" frameX="-131" frameY="-86" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky dwn0002" x="693" y="309" width="133" height="119" frameX="-132" frameY="-84" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky dwn0003" x="693" y="309" width="133" height="119" frameX="-132" frameY="-83" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky dwn0004" x="693" y="309" width="133" height="119" frameX="-132" frameY="-83" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky idle0000" x="558" y="0" width="134" height="179" frameX="-127" frameY="-26" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky idle0001" x="558" y="0" width="134" height="179" frameX="-127" frameY="-25" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky idle0002" x="421" y="181" width="137" height="181" frameX="-127" frameY="-25" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky idle0003" x="421" y="0" width="137" height="181" frameX="-127" frameY="-24" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky idle0004" x="280" y="203" width="138" height="184" frameX="-127" frameY="-21" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky idle0005" x="143" y="203" width="137" height="185" frameX="-127" frameY="-21" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky lft0000" x="156" y="401" width="158" height="158" frameX="-101" frameY="-49" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky lft0001" x="314" y="401" width="155" height="157" frameX="-106" frameY="-50" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky lft0002" x="470" y="401" width="155" height="157" frameX="-107" frameY="-50" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky lft0003" x="0" y="401" width="156" height="158" frameX="-106" frameY="-49" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky rgt0000" x="158" y="558" width="167" height="153" frameX="-130" frameY="-46" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky rgt0001" x="693" y="155" width="156" height="154" frameX="-128" frameY="-45" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky rgt0002" x="0" y="558" width="158" height="154" frameX="-127" frameY="-45" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky rgt0003" x="693" y="0" width="157" height="155" frameX="-127" frameY="-43" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky up0000" x="0" y="0" width="138" height="203" frameX="-133" frameY="0" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky up0001" x="138" y="0" width="140" height="201" frameX="-132" frameY="-2" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky up0002" x="0" y="203" width="143" height="197" frameX="-129" frameY="-6" frameWidth="384" frameHeight="216"/>
+<SubTexture name="daddykinky up0003" x="278" y="0" width="143" height="198" frameX="-129" frameY="-5" frameWidth="384" frameHeight="216"/>
+</TextureAtlas>

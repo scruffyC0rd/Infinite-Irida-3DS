@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "nupou3ds idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "nupou3ds lft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "nupou3ds rgt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				9
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "nupou3ds up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "nupou3ds dwn",
+			"indices": []
+		},
+		{
+			"offsets": [
+				54,
+				11
+			],
+			"indices": [],
+			"fps": 1,
+			"anim": "go",
+			"loop": false,
+			"name": "nupou3ds go"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/execretion/nupou3ds",
+	"position": [
+		110,
+		350
+	],
+	"healthicon": "poop",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		60,
+		0
+	],
+	"camera_position": [
+		0,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 3.8,
+	"_editor_isPlayer": false
+}

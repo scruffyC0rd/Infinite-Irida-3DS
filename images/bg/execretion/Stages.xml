@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?><TextureAtlas imagePath="Stages.png">
+<SubTexture name="phase1" x="0" y="0" width="875" height="425" frameX="0" frameY="0" frameWidth="875" frameHeight="425"/>
+<SubTexture name="phase2" x="0" y="425" width="875" height="425" frameX="0" frameY="0" frameWidth="875" frameHeight="425"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><TextureAtlas imagePath="stress.png">
+<SubTexture name="static0000" x="315" y="210" width="315" height="210" frameX="0" frameY="0" frameWidth="315" frameHeight="210"/>
+<SubTexture name="static0001" x="0" y="210" width="315" height="210" frameX="0" frameY="0" frameWidth="315" frameHeight="210"/>
+<SubTexture name="static0002" x="315" y="0" width="315" height="210" frameX="0" frameY="0" frameWidth="315" frameHeight="210"/>
+<SubTexture name="static0003" x="0" y="0" width="315" height="210" frameX="0" frameY="0" frameWidth="315" frameHeight="210"/>
+<SubTexture name="static0004" x="0" y="420" width="315" height="210" frameX="0" frameY="0" frameWidth="315" frameHeight="210"/>
+<SubTexture name="static0005" x="315" y="420" width="315" height="210" frameX="0" frameY="0" frameWidth="315" frameHeight="210"/>
+<SubTexture name="static0006" x="630" y="0" width="315" height="210" frameX="0" frameY="0" frameWidth="315" frameHeight="210"/>
+</TextureAtlas>

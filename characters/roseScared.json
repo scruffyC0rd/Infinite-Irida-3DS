@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				74,
+				41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "roseS up"
+		},
+		{
+			"offsets": [
+				110,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "roseS lft"
+		},
+		{
+			"offsets": [
+				110,
+				-31
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "roseS dwn"
+		},
+		{
+			"offsets": [
+				80,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "roseS rgt"
+		},
+		{
+			"offsets": [
+				110,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "roseS idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/execretion/roseS",
+	"position": [
+		-590,
+		200
+	],
+	"healthicon": "rose",
+	"flip_x": true,
+	"healthbar_colors": [
+		133,
+		227,
+		243
+	],
+	"camera_position": [
+		590,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 2.5,
+	"_editor_isPlayer": true
+}

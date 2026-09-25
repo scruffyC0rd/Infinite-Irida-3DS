@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				108,
+				11
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP",
+			"loop": false,
+			"name": "r up"
+		},
+		{
+			"offsets": [
+				110,
+				10
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": false,
+			"name": "r idle"
+		},
+		{
+			"offsets": [
+				110,
+				12
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "r left"
+		},
+		{
+			"offsets": [
+				104,
+				11
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "r right"
+		},
+		{
+			"offsets": [
+				109,
+				10
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "r down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/execretion/stressed-rose",
+	"position": [
+		100,
+		220
+	],
+	"healthicon": "rose",
+	"flip_x": true,
+	"healthbar_colors": [
+		133,
+		227,
+		243
+	],
+	"camera_position": [
+		0,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 3.5,
+	"_editor_isPlayer": true
+}

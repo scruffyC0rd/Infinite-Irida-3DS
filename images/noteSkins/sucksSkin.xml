@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Tex-Packer-EX v0.7.1 https://kitzsh.github.io/tex-packer-ex
+-->
+<TextureAtlas imagePath="sucksSkin.png" width="461" height="485">
+  <SubTexture name="arrowDOWN0000" x="138" y="137.4"  width="97.8" height="89.39999999999999" frameX="-0" frameY="-0" frameWidth="97.8" frameHeight="89.39999999999999"/>
+  <SubTexture name="arrowLEFT0000" x="129" y="263.4"  width="89.39999999999999" height="97.8" frameX="-0" frameY="-0" frameWidth="89.39999999999999" frameHeight="97.8"/>
+  <SubTexture name="arrowRIGHT0000" x="370.2" y="1.2"  width="89.39999999999999" height="97.2" frameX="-0" frameY="-0.6" frameWidth="89.39999999999999" frameHeight="98.39999999999999"/>
+  <SubTexture name="arrowUP0000" x="270" y="1.2"  width="97.8" height="88.8" frameX="-0" frameY="-0.6" frameWidth="98.39999999999999" frameHeight="90"/>
+  <SubTexture name="blue hold end0000" x="138" y="229.2"  width="30.599999999999998" height="27" frameX="-0" frameY="-0" frameWidth="30.599999999999998" frameHeight="27"/>
+  <SubTexture name="blue hold piece0000" x="129" y="363.59999999999997"  width="30.599999999999998" height="26.4" frameX="-0" frameY="-0" frameWidth="30.599999999999998" frameHeight="26.4"/>
+  <SubTexture name="blue0000" x="270" y="92.39999999999999"  width="97.8" height="89.39999999999999" frameX="-0" frameY="-0" frameWidth="97.8" frameHeight="89.39999999999999"/>
+  <SubTexture name="down confirm0000" x="1.2" y="134.4"  width="134.4" height="126.6" frameX="-3" frameY="-1.2" frameWidth="143.4" frameHeight="134.4"/>
+  <SubTexture name="down press0000" x="370.2" y="100.8"  width="86.39999999999999" height="78.6" frameX="-4.2" frameY="-4.2" frameWidth="94.8" frameHeight="87"/>
+  <SubTexture name="green hold end0000" x="171" y="229.2"  width="30.599999999999998" height="27" frameX="-0" frameY="-0" frameWidth="30.599999999999998" frameHeight="27"/>
+  <SubTexture name="green hold piece0000" x="204" y="229.2"  width="30.599999999999998" height="26.4" frameX="-0" frameY="-0" frameWidth="30.599999999999998" frameHeight="26.4"/>
+  <SubTexture name="green0000" x="312.59999999999997" y="284.4"  width="97.2" height="89.39999999999999" frameX="-0" frameY="-0" frameWidth="97.8" frameHeight="89.39999999999999"/>
+  <SubTexture name="left confirm0000" x="140.4" y="1.2"  width="127.19999999999999" height="133.79999999999998" frameX="-3.5999999999999996" frameY="-3.5999999999999996" frameWidth="134.4" frameHeight="143.4"/>
+  <SubTexture name="left press0000" x="1.2" y="397.8"  width="78.6" height="85.8" frameX="-4.2" frameY="-4.8" frameWidth="87" frameHeight="94.8"/>
+  <SubTexture name="pruple end hold0000" x="162" y="363.59999999999997"  width="30.599999999999998" height="27" frameX="-0" frameY="-0" frameWidth="30.599999999999998" frameHeight="27"/>
+  <SubTexture name="purple hold piece0000" x="330" y="184.2"  width="30.599999999999998" height="26.4" frameX="-0" frameY="-0" frameWidth="30.599999999999998" frameHeight="26.4"/>
+  <SubTexture name="purple0000" x="238.2" y="184.2"  width="89.39999999999999" height="97.8" frameX="-0" frameY="-0.6" frameWidth="89.39999999999999" frameHeight="98.39999999999999"/>
+  <SubTexture name="red hold end0000" x="330" y="213"  width="30.599999999999998" height="27" frameX="-0" frameY="-0" frameWidth="30.599999999999998" frameHeight="27"/>
+  <SubTexture name="red hold piece0000" x="330" y="242.39999999999998"  width="30.599999999999998" height="26.4" frameX="-0" frameY="-0" frameWidth="30.599999999999998" frameHeight="26.4"/>
+  <SubTexture name="red0000" x="220.79999999999998" y="284.4"  width="89.39999999999999" height="97.8" frameX="-0" frameY="-0" frameWidth="89.39999999999999" frameHeight="97.8"/>
+  <SubTexture name="right confirm0000" x="1.2" y="263.4"  width="125.39999999999999" height="132" frameX="-1.7999999999999998" frameY="-4.8" frameWidth="133.79999999999998" frameHeight="142.79999999999998"/>
+  <SubTexture name="right press0000" x="82.2" y="397.8"  width="78.6" height="85.8" frameX="-3.5999999999999996" frameY="-4.2" frameWidth="86.39999999999999" frameHeight="94.8"/>
+  <SubTexture name="up confirm0000" x="1.2" y="1.2"  width="136.79999999999998" height="130.79999999999998" frameX="-3.5999999999999996" frameY="-3" frameWidth="146.4" frameHeight="136.79999999999998"/>
+  <SubTexture name="up press0000" x="370.2" y="181.79999999999998"  width="86.39999999999999" height="78.6" frameX="-4.2" frameY="-4.2" frameWidth="94.8" frameHeight="86.39999999999999"/>
+</TextureAtlas>
